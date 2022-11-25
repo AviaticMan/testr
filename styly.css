@@ -1,12 +1,73 @@
 h1{
-    color: rgb(16, 233, 150);
-    text-align: center;
-    hov
-    
-    
-}
-p{
-    text-align: center;
+background-color: blue;
+color: rgb(255, 255, 255);
+font-family: monospace;
+font-size: 4rem;
+text-align: center;
+border: 6px solid black;
 
 
 }
+
+p1{
+     font-size: 2rem;
+     color: rgb(0, 0, 0);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+     
+
+}
+
+p2{
+    color: rgb(0, 0, 0);
+}
+    
+p3{
+    color: rgb(255, 255, 255);
+}
+
+
+
+h2{
+    text-align:  center;
+    font-size: 3.1rem;
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border: 6px solid black;
+}
+
+p8{
+    font-size: 2rem;
+    color: rgb(0, 0, 0);(0, 247, 255)
+
+    
+}
+
+p10{
+    color: black;
+    font-size: 2rem;
+}
+
+p9{
+    color: black;
+    font-size: 2rem;
+}
+
+
+ 
+h3{
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    
+
+}
+
+a{
+    border: solid 4px  black;
+}
+
+
+
+
