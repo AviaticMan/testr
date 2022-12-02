@@ -1,0 +1,42 @@
+h1{
+    background-color: #35911f;
+    font-family: monospace;
+    color: rgb(92, 65, 8);
+    font-size: 2.9rem;
+    text-align: center;
+
+    
+
+}
+
+h1:hover{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    background-color: rgb(95, 56, 11);
+    color: aliceblue;
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+}
+
+ul{
+    list-style-type: square;
+}
+li:hover{
+    color: #34b613;
+    font-size: x-large;
+}
+
+h3{
+    font-weight: bold;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(19, 151, 14);
+}
+p{
+    background-color: #35911f;
+}
